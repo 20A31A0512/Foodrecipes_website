@@ -74,7 +74,7 @@ function openpizzaRecipePopup() {
 }
 
 function openvegmanchuriaRecipePopup() {
-  var vegmanchuriaPopup = document.getElementById("vegmachuriaRecipePopup");
+  var vegmanchuriaPopup = document.getElementById("vegmanchuriaRecipePopup");
   vegmanchuriaPopup.style.display = "block";
 }
 
@@ -136,7 +136,7 @@ window.onclick = function(event) {
   var pavbajjiPopup = document.getElementById("pavbajjiRecipePopup");
   var burgerPopup = document.getElementById("burgerRecipePopup");
   var pizzaPopup = document.getElementById("pizzaRecipePopup");
-  var vegmanchuriaPopup = document.getElementById("vegmachuriaRecipePopup");
+  var vegmanchuriaPopup = document.getElementById("vegmanchuriaRecipePopup");
   var mangoJuicePopup = document.getElementById("mangoJuiceRecipePopup");
   var lassiPopup = document.getElementById("lassiRecipePopup");
   var dalgonaCoffeePopup = document.getElementById("dalgonaCoffeeRecipePopup");
