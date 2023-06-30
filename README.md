@@ -3,7 +3,6 @@ Welcome to the Food Recipe Website! This platform is dedicated to providing you 
 
 # This web-based food recipe application has been developed for the accomplishment of the Future Ready Talent internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
-
 This is the README file for the Food Recipes Website project. In this document, you will find important information about the project, its features, and other relevant details.
 
 # Table of Contents
